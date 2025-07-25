@@ -13,5 +13,7 @@
 4. python manage.py migrate
 
 ## Cara Menjalankan
-1. npm run dev (React)
-2. python manage.py runserver (Django)
+### Frontend
+npm run dev
+### Backend
+python manage.py runserver
