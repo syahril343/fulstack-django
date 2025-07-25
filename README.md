@@ -18,5 +18,5 @@ Deskripsi singkat tentang proyek ini (misalnya: Aplikasi web untuk manajemen res
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/namaprojek.git
-cd namaprojek
+https://github.com/syahril343/fulstack-django.git
+cd fulstack-django
