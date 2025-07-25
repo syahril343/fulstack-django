@@ -1,6 +1,6 @@
 ## Clone Repository
-https://github.com/syahril343/fulstack-django.git
-cd fulstack-django
+1. https://github.com/syahril343/fulstack-django.git
+2. cd fulstack-django
 
 ## Instalasi Frontend React JS
 1. cd frontend
