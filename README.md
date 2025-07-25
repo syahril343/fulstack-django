@@ -1,22 +1,21 @@
-# Nama Proyek
-
-Deskripsi singkat tentang proyek ini (misalnya: Aplikasi web untuk manajemen restoran, backend dengan Django dan frontend React).
-
-## 🚀 Fitur
-- Login & Register
-- Autentikasi JWT
-- Role-based Access Control
-- dsb.
-
-## 🛠️ Teknologi yang Digunakan
-- Backend: Django
-- Frontend: React
-- Database: PostgreSQL / MySQL
-- Lainnya: Docker, Redis, dll
-
 ## ⚙️ Instalasi Lokal
 
-### 1. Clone Repository
+### Clone Repository
 ```bash
 https://github.com/syahril343/fulstack-django.git
 cd fulstack-django
+
+### Instalasi Frontend React JS
+``` bash
+1. npm install
+
+### Instalasi Backend Django
+``` bash
+1. pip install -r requirement.txt
+2. python manage.py makemigrations
+3. python manage.py migrate
+
+## ⚙️ Cara Menjalankan
+``` bash
+1. npm run dev (React)
+2. python manage.py runserver (Django)
